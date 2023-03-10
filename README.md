@@ -11,8 +11,8 @@
 <div style="display: inline_black"><br>
 <img aling="center" alt="Android" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img aling="center" alt="Android" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img aling="center" alt="Android" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img aling="center" alt="Android" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img aling="center" alt="Android" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img aling="center" alt="Android" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img aling="center" alt="Android" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img aling="center" alt="Android" src="https://img.shields.io/badge/Android_Studio-3DDC8?style=for-the-badge&logo=android-studio&logoColor=white">
 </div>
