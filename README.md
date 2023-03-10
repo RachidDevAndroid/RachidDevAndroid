@@ -4,7 +4,7 @@
 [![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachid-de-andrade-coutinho-41509b266/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rachidandrade7733)
 
-![Rashid GitHub stats](https://github-readme-stats.vercel.app/api?username=RachidDevAndroid&show_icons=true&theme=onedark)
+![Rashid GitHub stats](https://github-readme-stats.vercel.app/api?username=RachidDevAndroid&show_icons=true&theme=cobalt)
 
  📍   Living in Volta Redonda RJ (Brazil
 
