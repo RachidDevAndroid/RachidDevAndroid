@@ -6,6 +6,13 @@
 
 ![Rashid GitHub stats](https://github-readme-stats.vercel.app/api?username=RachidDevAndroid&show_icons=true&theme=onedark)
 
+ 📍   Living in Volta Redonda RJ (Brazil
+
+ 🎓   Studying Engenharia De Software
+
+ 📘  Junior Mobile Developer
+
+
 ## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_black"><br>
