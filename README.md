@@ -5,12 +5,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rachidandrade7733)
 
 ![Rashid GitHub stats](https://github-readme-stats.vercel.app/api?username=RachidDevAndroid&show_icons=true&theme=cobalt)
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Samuel Freitas">
 
- 📍   Living in Volta Redonda RJ (Brazil
-
- 🎓   Studying Engenharia De Software
-
- 📘  Junior Mobile Developer
+<p align="left"> 
+  <ul>
+    <li>🎓 &nbsp; Studying Engenharia De Software.</li>
+    <li>📘 &nbsp; Junior Mobile Developer.</li>
+    <li>📍 &nbsp;  Living in Volta Redonda RJ (Brazil </li>
+  </ul>
+</p>
 
 
 ## Tecnologias que eu uso no meu dia a dia
@@ -23,5 +26,3 @@
 <img aling="center" alt="Sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img aling="center" alt="Intellij_Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img aling="center" alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC8?style=for-the-badge&logo=android-studio&logoColor=white">
-
-</div>
