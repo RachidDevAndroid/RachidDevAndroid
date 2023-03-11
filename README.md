@@ -9,9 +9,9 @@
 
 <p align="left"> 
   <ul>
-    <li>🎓 &nbsp; Studying Engenharia De Software.</li>
-    <li>📘 &nbsp; Junior Mobile Developer.</li>
-    <li>📍 &nbsp;  Living in Volta Redonda RJ (Brazil </li>
+    <li>🎓 &nbsp; Cursando Engenharia de Software.</li>
+    <li>📘 &nbsp; Desenvolvedor Jr Mobile.</li>
+    <li>📍 &nbsp;  Moro em volta redonda Rj (Brazil </li>
   </ul>
 </p>
 
